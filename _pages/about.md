@@ -39,31 +39,30 @@ I am a Ph.D. candidate in Computer Science at University of Southern California.
 
 <p><u>PatchZero: Defending against Adversarial Patch Attacks by Detecting and Zeroing the Patch</u><br>
 Ke Xu*, Yao Xiao*, <strong> Zhaoheng Zheng </strong>, Kaijie Cai and Ram Nevatia
-WACV 2023<br>
-<a href="https://arxiv.org/abs/2207.01795" class="btn btn--success">Paper/a>
-;<a href="https://github.com/TheShadow29/VidSitu" class="btn btn--warning">Code</a>
-;<a href="https://vidsitu.org/" class="btn btn--danger">Website</a></p>
+<br> WACV 2023<br>
+<a href="https://arxiv.org/abs/2207.01795" class="btn btn--success">Paper</a>
+; <a href="https://github.com/TheShadow29/VidSitu" class="btn btn--warning">Code</a>
+; <a href="https://vidsitu.org/" class="btn btn--danger">Website</a></p>
 
-Ke Xu*, Yao Xiao*, \underline{Zhaoheng Zheng}, Kaijie Cai and Ram Nevatia
 
-Yizhou Zhang, \underline{Zhaoheng Zheng}, Ram Nevatia and Yan Liu, ``\textbf{Improving Weakly Supervised Scene Graph Parsing
+Yizhou Zhang, <strong> Zhaoheng Zheng </strong>, Ram Nevatia and Yan Liu, ``\textbf{Improving Weakly Supervised Scene Graph Parsing
 through Object Grounding}, {in \sl ICPR 2022}
 
-Haidong Zhu, \underline{Zhaoheng Zheng} and Ram Nevatia, ``\textbf{Two-Stage Temporal Fusion For Skeleton Action Recognition}, {in \sl ICPR 2022}
+Haidong Zhu, <strong> Zhaoheng Zheng </strong> and Ram Nevatia, ``\textbf{Two-Stage Temporal Fusion For Skeleton Action Recognition}, {in \sl ICPR 2022}
 
 Sonam Goenka*, \underline{Zhaoheng Zheng*}, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan and Varsha Hedau, ``\textbf{FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback}'', {in \sl CVPR 2022}
 
-Haidong Zhu, \underline{Zhaoheng Zheng}, Mohammad Soleymani and Ram Nevatia, ``\textbf{Self-Supervised Learning for Sentiment Analysis via Image-text Matching}'', {in \sl ICASSP 2022}
+Haidong Zhu, <strong> Zhaoheng Zheng </strong>, Mohammad Soleymani and Ram Nevatia, ``\textbf{Self-Supervised Learning for Sentiment Analysis via Image-text Matching}'', {in \sl ICASSP 2022}
 
-\underline{Zhaoheng Zheng}, Arka Sadhu, and Ram Nevatia, ``\textbf{Improving Object Detection and Attribute Recognition by Feature Entanglement Reduction}'', {\sl ICIP 2021}
+<strong> Zhaoheng Zheng </strong>, Arka Sadhu, and Ram Nevatia, ``\textbf{Improving Object Detection and Attribute Recognition by Feature Entanglement Reduction}'', {\sl ICIP 2021}
 
-Haidong Zhu, Arka Sadhu, \underline{Zhaoheng Zheng}, and Ram Nevatia, ``\textbf{Utilizing Every Image Object for Semi-supervised Phrase Grounding}'', in {\sl WACV 2021}
+Haidong Zhu, Arka Sadhu, <strong> Zhaoheng Zheng </strong>, and Ram Nevatia, ``\textbf{Utilizing Every Image Object for Semi-supervised Phrase Grounding}'', in {\sl WACV 2021}
 
-Yizhou Zhang, \underline{Zhaoheng Zheng}, and Yan Liu, ``\textbf{Grounding like a Baby: Learning to Localize Unlabelled Nouns in Visual Space via Relations}'', in {\sl NeurIPS 2020 Workshop on BabyMind}
+Yizhou Zhang, <strong> Zhaoheng Zheng </strong>, and Yan Liu, ``\textbf{Grounding like a Baby: Learning to Localize Unlabelled Nouns in Visual Space via Relations}'', in {\sl NeurIPS 2020 Workshop on BabyMind}
 
-Fang-Lue Zhang, Xian Wu, Rui-Long Li, Jue Wang, \underline{Zhaoheng Zheng}, and Shi-Min Hu, ``\textbf{Detecting and Removing Visual Distractors for Video Aesthetic Enhancement}'', in {\sl IEEE Transactions on Multimedia, 2018}
+Fang-Lue Zhang, Xian Wu, Rui-Long Li, Jue Wang, <strong> Zhaoheng Zheng </strong>, and Shi-Min Hu, ``\textbf{Detecting and Removing Visual Distractors for Video Aesthetic Enhancement}'', in {\sl IEEE Transactions on Multimedia, 2018}
 
-\underline{Zhaoheng Zheng}, Hao-Tian Zhang, Fang-Lue Zhang, and Tai-Jiang Mu ``\textbf{Image Based Cloth Changing System}'', in {\sl Computational Visual Media}, 2017. 
+<strong> Zhaoheng Zheng </strong>, Hao-Tian Zhang, Fang-Lue Zhang, and Tai-Jiang Mu ``\textbf{Image Based Cloth Changing System}'', in {\sl Computational Visual Media}, 2017. 
 
 <p><u>Visual Semantic Role Labeling for Video Understanding</u><br>
 <strong>Arka Sadhu</strong>, Tanmay Gupta, Mark Yatskar, Ram Nevatia, Aniruddha Kembhavi<br>
