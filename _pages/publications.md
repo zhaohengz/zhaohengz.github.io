@@ -9,13 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-p><u>Gait Recognition Using 3-D Human Body Shape Inference</u><br>
+<p><u>Gait Recognition Using 3-D Human Body Shape Inference</u><br>
 Haidong Zhu, <strong>Zhaoheng Zheng</strong>, and Ram Nevatia
 <br> WACV 2023<br>
 <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_Gait_Recognition_Using_3-D_Human_Body_Shape_Inference_WACV_2023_paper.pdf" 
