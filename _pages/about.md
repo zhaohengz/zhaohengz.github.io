@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at University of Southern California, starting in 2019. I am very fortunate to be advised by Prof. Ram Nevatia. My research interest lies in the area of multimodal perception with vision and language, including compositional zero-shot learning, zero-shot detection and large scale vision-language transformers.
+I am a Ph.D. candidate in Computer Science at University of Southern California, starting in 2019. I am very fortunate to be advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). My research interest lies in the area of multimodal perception with vision and language, including compositional zero-shot learning, zero-shot detection and large scale vision-language transformers.
 
-Prior to USC, I was a Master student at University of Michigan, Ann Arbor, where I worked with Prof. David Fouhey and Prof. Jia Deng. I received my Bachelor's degree from Tsinghua University in 2017. During my undergrad time, I worked with Prof. Shi-Min Hu.
+Prior to USC, I was a Master student at University of Michigan, Ann Arbor, where I worked with Prof. [David Fouhey](https://web.eecs.umich.edu/~fouhey/) and Prof. [Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my Bachelor's degree from Tsinghua University in 2017. During my undergrad time, I worked with [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm).
 
-I spent two wonderful summers in 2021/2022 interning at Amazon Alexa AI, where I worked with Rakesh Chada and [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en).
+In 2021 and 2022, I spent two wonderful summers interning at Amazon Alexa AI, working with [Rakesh Chada](https://www.amazon.science/author/rakesh-chada) and [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en).
 
 <h1 id="publications"> Selected Publications (<a href="/publications/">Full List</a>)</h1>
 
@@ -24,7 +24,7 @@ Ke Xu*, Yao Xiao*, <strong>Zhaoheng Zheng</strong>, Kaijie Cai, and Ram Nevatia
 ; <a href="https://vidsitu.org/" class="btn btn--danger">Website</a> -->
 
 <p><u>FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback</u><br>
-Sonam Goenka*, <strong>Zhaoheng Zheng</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, Varsha Hedau
+Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau
 <br> CVPR 2022<br>
 <a href="https://arxiv.org/abs/2207.01795" class="btn btn--success">Paper</a></p>
 
