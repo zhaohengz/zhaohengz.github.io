@@ -10,29 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
 
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
 
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
-
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
-
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
-
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
-
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
-
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
-
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
-
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
-
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
-
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
-
-I am a Ph.D. candidate in Computer Science at University of Southern California. I am very fortunate to be advised by Prof. Ram Nevatia. Prior to USC, I spent two wonderful years as a master student at Universy of Michigan, and four years as an undergard at Tsinghua University. 
 
 
 <h1 id="publications"> Publications </h1>
@@ -42,7 +20,7 @@ Ke Xu*, Yao Xiao*, <strong>Zhaoheng Zheng</strong>, Kaijie Cai and Ram Nevatia
 <br> WACV 2023<br>
 <a href="https://arxiv.org/abs/2207.01795" class="btn btn--success">Paper</a></p>
 <!-- <a href="https://github.com/TheShadow29/VidSitu" class="btn btn--warning">Code</a>
-; <a href="https://vidsitu.org/" class="btn btn--danger">Website</a>
+; <a href="https://vidsitu.org/" class="btn btn--danger">Website</a> -->
 
 <p><u>Improving Weakly Supervised Scene Graph Parsing through Object Grounding</u><br>
 Yizhou Zhang, <strong>Zhaoheng Zheng</strong>, Ram Nevatia and Yan Liu
