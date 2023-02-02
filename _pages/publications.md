@@ -26,7 +26,7 @@ Ke Xu*, Yao Xiao*, <strong>Zhaoheng Zheng</strong>, Kaijie Cai, and Ram Nevatia
 
 <h2> 2022 </h2>
 <p><u>Improving Weakly Supervised Scene Graph Parsing through Object Grounding</u><br>
-Yizhou Zhang, <strong>Zhaoheng Zheng*</strong>, Ram Nevatia, and Yan Liu
+Yizhou Zhang, <strong>Zhaoheng Zheng</strong>, Ram Nevatia, and Yan Liu
 <br> ICPR 2022<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/9956641" class="btn btn--success">Paper</a></p>
 
