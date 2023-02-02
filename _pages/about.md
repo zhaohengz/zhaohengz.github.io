@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at University of Southern California, starting 2019. I am very fortunate to be advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). My research interest lies in the area of multimodal perception with vision and language, including large-scale vision-language transformers, compositional zero-shot learning, and zero-shot detection.
+I am a Ph.D. candidate in Computer Science at University of Southern California, starting in 2019. I am very fortunate to be advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). My research interest lies in the area of multimodal perception with vision and language, including large-scale vision-language transformers, compositional zero-shot learning, and zero-shot detection.
 
 Prior to USC, I was a Master student at University of Michigan, Ann Arbor, where I worked with Prof. [David Fouhey](https://web.eecs.umich.edu/~fouhey/) and Prof. [Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my Bachelor's degree from Tsinghua University in 2017. During my undergrad time, I worked with [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm).
 
