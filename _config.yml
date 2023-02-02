@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhaoheng Zheng"
+  name             : "Zhaoheng Zheng (郑兆衡)"
   avatar           : "zhaoheng.png"
   bio              : "Ph.D. Candidate @ USC"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=36e4ADAAAAAJ&hl=en"
-  email            :  "zhaoheng.zheng [at] usc [dot] edu"
+  email            :  "zhaoheng.zheng@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zhaoheng-zheng-044a60a6/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
