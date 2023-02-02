@@ -38,7 +38,7 @@ Haidong Zhu, <strong>Zhaoheng Zheng</strong>, and Ram Nevatia
 <p><u>FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback</u><br>
 Sonam Goenka*, <strong>Zhaoheng Zheng</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau
 <br> CVPR 2022<br>
-<a href="https://arxiv.org/abs/2207.01795" class="btn btn--success">Paper</a></p>
+<a href="https://www.amazon.science/publications/fashionvlp-vision-language-transformer-for-fashion-retrieval-with-feedback" class="btn btn--success">Paper</a></p>
 
 <p><u>Self-Supervised Learning for Sentiment Analysis via Image-text Matching}</u><br>
 Haidong Zhu, <strong>Zhaoheng Zheng</strong>, Mohammad Soleymani, and Ram Nevatia
@@ -49,7 +49,7 @@ Haidong Zhu, <strong>Zhaoheng Zheng</strong>, Mohammad Soleymani, and Ram Nevati
 <p><u>Improving Object Detection and Attribute Recognition by Feature Entanglement Reduction</u><br>
 <strong>Zhaoheng Zheng</strong>, Arka Sadhu, and Ram Nevatia
 <br> ICIP 2021<br>
-<a href="https://arxiv.org/abs/2207.01795" class="btn btn--success">Paper</a></p>
+<a href="https://arxiv.org/abs/2108.11501" class="btn btn--success">Paper</a></p>
 
 <p><u>Utilizing Every Image Object for Semi-supervised Phrase Grounding</u><br>
 Haidong Zhu, Arka Sadhu, <strong>Zhaoheng Zheng</strong>, and Ram Nevatia
