@@ -38,4 +38,4 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 <br> Computational Visual Media, 2017<br>
 <a href="https://cs.stanford.edu/~haotianz/research/clothes_changing/clothes_changing.pdf" class="btn btn--success">Paper</a></p>
 
-<script style=“display:none;” type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WuTycU_gptD1_uRJMJF-BV4Q0VudvsyDQpgvA3okEYs&cl=ffffff&w=a"></script>
+<section hidden><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WuTycU_gptD1_uRJMJF-BV4Q0VudvsyDQpgvA3okEYs&cl=ffffff&w=a"></script></section>
