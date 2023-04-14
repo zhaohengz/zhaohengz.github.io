@@ -20,7 +20,7 @@ Rakesh Chada, <strong>Zhaoheng Zheng</strong>, and Pradeep Natarajan
 Haidong Zhu, <strong>Zhaoheng Zheng</strong>, Wanrong Zheng, and Ram Nevatia 
 <br> DynaVis Workshop @ CVPR 2023<br>
 <a href="https://haidongz-usc.github.io/project/pdf/CVPRW23_CAT_NeRF.pdf" class="btn btn--success">Paper</a>
-<a href="https://github.com/haidongz-usc/CAT-NeRF" class="btn btn--error">Code</a>
+<a href="https://github.com/haidongz-usc/CAT-NeRF" class="btn btn--warning">Code</a>
 </p>
 
 <p><u>Gait Recognition Using 3-D Human Body Shape Inference</u><br>
