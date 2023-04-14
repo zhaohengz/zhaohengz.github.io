@@ -11,13 +11,13 @@ You can also find my publication list on <u><a href="https://scholar.google.com/
 
 <h2> 2023 </h2>
 <p><u>MoMo: A shared encoder Model for text, image and multi-Modal representations</u><br>
-Rakesh Chada, <strong>Zhaoheng Zheng, and Pradeep Natarajan
+Rakesh Chada, <strong>Zhaoheng Zheng</strong>, and Pradeep Natarajan
 <br> Arxiv Preprint <br>
 <a href="https://arxiv.org/abs/2304.05523" class=btn btn--success">Paper</a></p>
 
 <p>
 <u>CAT-NeRF: Constancy-Aware TxFormer for Dynamic Body Modeling</u><br>
-Haidong Zhu, <strong>Zhaoheng Zheng, Wanrong Zheng, and Ram Nevatia 
+Haidong Zhu, <strong>Zhaoheng Zheng</strong>, Wanrong Zheng, and Ram Nevatia 
 <br> DynaVis Workshop @ CVPR 2023<br>
 <a href="https://haidongz-usc.github.io/project/pdf/CVPRW23_CAT_NeRF.pdf" class=btn btn--success">Paper</a>
 <a href="https://github.com/haidongz-usc/CAT-NeRF" class=btn btn--error">Code</a>
