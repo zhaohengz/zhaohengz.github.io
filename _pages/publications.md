@@ -49,7 +49,7 @@ Haidong Zhu, <strong>Zhaoheng Zheng</strong>, and Ram Nevatia
 <a href="https://ieeexplore.ieee.org/document/9956662" class="btn btn--success">Paper</a></p>
 
 <p><u>FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback</u><br>
-Sonam Goenka*, <strong>Zhaoheng Zheng</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau
+Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau
 <br> CVPR 2022<br>
 <a href="https://www.amazon.science/publications/fashionvlp-vision-language-transformer-for-fashion-retrieval-with-feedback" class="btn btn--success">Paper</a></p>
 
