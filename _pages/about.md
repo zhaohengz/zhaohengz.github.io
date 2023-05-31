@@ -24,6 +24,11 @@ Prior to USC, I was a Master student at University of Michigan, Ann Arbor, where
 <br> arXiv Preprint<br>
 <a href="https://arxiv.org/abs/2305.16681" class="btn btn--success">Paper</a></p>
 
+<p><u>MoMo: A shared encoder Model for text, image and multi-Modal representations</u><br>
+Rakesh Chada, <strong>Zhaoheng Zheng</strong>, and Pradeep Natarajan
+<br> arXiv Preprint<br>
+<a href="https://arxiv.org/abs/2304.05523" class="btn btn--success">Paper</a></p>
+
 <p><u>PatchZero: Defending against Adversarial Patch Attacks by Detecting and Zeroing the Patch</u><br>
 Ke Xu*, Yao Xiao*, <strong>Zhaoheng Zheng</strong>, Kaijie Cai, and Ram Nevatia
 <br> WACV 2023<br>
