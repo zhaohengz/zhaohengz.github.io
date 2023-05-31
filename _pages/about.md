@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at University of Southern California, starting in 2019. I am very fortunate to be advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). My research interest lies in the area of multimodal perception with vision and language, including large-scale vision-language transformers, compositional zero-shot learning, and zero-shot detection.
+I am a Ph.D. candidate in Computer Science at University of Southern California, starting in 2019. I am very fortunate to be advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
+My research interest lies in the area of multimodal perception with vision and language, including large-scale vision-language transformers, compositional zero-shot learning, and zero-shot detection. I am now especially interested in Multimodal Large Language Models <strong>(LLMs)</strong> towards Artificial General Intelligence <strong>(AGI)</strong>.
+
+I am currently interning at Microsoft Research Redmond, mentored by [Vibhav Vineet](https://vibhav-vineet.github.io/). In 2021 and 2022, I spent two wonderful summers as a Applied Scientist Intern at Amazon Alexa AI, working with [Rakesh Chada](https://www.amazon.science/author/rakesh-chada) and [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en).
 
 Prior to USC, I was a Master student at University of Michigan, Ann Arbor, where I worked with Prof. [David Fouhey](https://web.eecs.umich.edu/~fouhey/) and Prof. [Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my Bachelor's degree from Tsinghua University in 2017. During my undergrad time, I worked with [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm).
 
-In 2021 and 2022, I spent two wonderful summers as a Applied Scientist Intern at Amazon Alexa AI, working with [Rakesh Chada](https://www.amazon.science/author/rakesh-chada) and [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en).
+<font color="#ff0000">I am graduating in 2023 and now actively looking for full-time positions in computer vision, machine learning and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font>
 
 <h1 id="publications"> Selected Publications (<a href="/publications/">Full List</a>)</h1>
+
+<p><u>CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning</u><br>
+<strong>Zhaoheng Zheng</strong>, Haidong Zhu, and Ram Nevatia
+<br> arXiv Preprint<br>
+<a href="https://arxiv.org/abs/2305.16681", class="btn btn--success">Paper</a></p>
 
 <p><u>PatchZero: Defending against Adversarial Patch Attacks by Detecting and Zeroing the Patch</u><br>
 Ke Xu*, Yao Xiao*, <strong>Zhaoheng Zheng</strong>, Kaijie Cai, and Ram Nevatia

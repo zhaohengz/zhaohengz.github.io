@@ -10,9 +10,15 @@ You can also find my publication list on <u><a href="https://scholar.google.com/
 
 
 <h2> 2023 </h2>
+
+<p><u>CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning</u><br>
+<strong>Zhaoheng Zheng</strong>, Haidong Zhu, and Ram Nevatia
+<br> arXiv Preprint<br>
+<a href="https://arxiv.org/abs/2305.16681", class="btn btn--success">Paper</a></p>
+
 <p><u>MoMo: A shared encoder Model for text, image and multi-Modal representations</u><br>
 Rakesh Chada, <strong>Zhaoheng Zheng</strong>, and Pradeep Natarajan
-<br> Arxiv Preprint<br>
+<br> arXiv Preprint<br>
 <a href="https://arxiv.org/abs/2304.05523" class="btn btn--success">Paper</a></p>
 
 <p>
