@@ -13,8 +13,17 @@ You can also find my publication list on <u><a href="https://scholar.google.com/
 
 <p><u>CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning</u><br>
 <strong>Zhaoheng Zheng</strong>, Haidong Zhu, and Ram Nevatia
-<br> arXiv Preprint<br>
+<br> WACV 2024<br>
 <a href="https://arxiv.org/abs/2305.16681" class="btn btn--success">Paper</a></p>
+
+<p><u>ShARc: Shape and Appearance Recognition for Person Identification In-the-wild</u><br>
+Haidong Zhu, Wanrong Zheng, <strong>Zhaoheng Zheng</strong>, and Ram Nevatia
+<br> WACV 2024<br>
+
+<p><u>GaitRef: Gait Recognition with Refined Skeletons</u> (equal contribution)<br>
+Haidong Zhu*, Wanrong Zheng*, <strong>Zhaoheng Zheng</strong>, and Ram Nevatia
+<br> IJCB 2023 (Oral)<br>
+<a href="https://arxiv.org/abs/2304.07916" class="btn btn--success">Paper</a> 
 
 <p><u>MoMo: A shared encoder Model for text, image and multi-Modal representations</u><br>
 Rakesh Chada, <strong>Zhaoheng Zheng</strong>, and Pradeep Natarajan
