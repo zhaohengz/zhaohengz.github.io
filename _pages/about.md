@@ -11,11 +11,11 @@ redirect_from:
 I am a Ph.D. candidate in Computer Science at University of Southern California, starting in 2019. I am very fortunate to be advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
 My research interest lies in the area of multimodal perception with vision and language, including large-scale vision-language transformers, and compositional zero-shot learning. I am now especially interested in Multimodal Large Language Models <strong>(LLMs)</strong> towards Artificial General Intelligence <strong>(AGI)</strong>.
 
-I am currently interning at Microsoft Research Redmond, mentored by [Vibhav Vineet](https://vibhav-vineet.github.io/). In 2021 and 2022, I spent two wonderful summers as a Applied Scientist Intern at Amazon Alexa AI, working with [Rakesh Chada](https://www.amazon.science/author/rakesh-chada) and [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en).
+I recently interned at Microsoft Research Redmond, mentored by [Vibhav Vineet](https://vibhav-vineet.github.io/), during the summer of 2023. In 2021 and 2022, I spent two wonderful summers as an Applied Scientist Intern at Amazon Alexa AI, working with [Rakesh Chada](https://www.amazon.science/author/rakesh-chada) and [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en).
 
-Prior to USC, I was a Master student at University of Michigan, Ann Arbor, where I worked with Prof. [David Fouhey](https://web.eecs.umich.edu/~fouhey/) and Prof. [Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my Bachelor's degree from Tsinghua University in 2017. During my undergrad time, I worked with [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm).
+Prior to USC, I was a Master's student at University of Michigan, Ann Arbor, where I worked with Prof. [David Fouhey](https://web.eecs.umich.edu/~fouhey/) and Prof. [Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my Bachelor's degree from Tsinghua University in 2017. During my undergrad time, I worked with [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm).
 
-<font color="#ff0000">I am graduating in 2023 and now actively looking for full-time positions in computer vision, machine learning and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font>
+<font color="#ff0000">I am graduating in 2023/early 2024 and now actively looking for full-time positions in computer vision, machine learning, and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font>
 
 <h1 id="publications"> Selected Publications (<a href="/publications/">Full List</a>)</h1>
 
