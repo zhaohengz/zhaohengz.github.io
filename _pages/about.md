@@ -30,14 +30,14 @@ Rakesh Chada, <strong>Zhaoheng Zheng</strong>, and Pradeep Natarajan
 <a href="https://arxiv.org/abs/2304.05523" class="btn btn--success">Paper</a></p>
 
 <p><u>PatchZero: Defending against Adversarial Patch Attacks by Detecting and Zeroing the Patch</u><br>
-Ke Xu*, Yao Xiao*, <strong>Zhaoheng Zheng</strong>, Kaijie Cai, and Ram Nevatia
+Ke Xu*, Yao Xiao*, <strong>Zhaoheng Zheng</strong>, Kaijie Cai, and Ram Nevatia (*Equal Contribution)
 <br> WACV 2023<br>
 <a href="https://arxiv.org/abs/2207.01795" class="btn btn--success">Paper</a></p>
 <!-- <a href="https://github.com/TheShadow29/VidSitu" class="btn btn--warning">Code</a>
 ; <a href="https://vidsitu.org/" class="btn btn--danger">Website</a> -->
 
 <p><u>FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback</u><br>
-Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau
+Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau (*Equal Contribution)
 <br> CVPR 2022<br>
 <a href="https://www.amazon.science/publications/fashionvlp-vision-language-transformer-for-fashion-retrieval-with-feedback" class="btn btn--success">Paper</a></p>
 
