@@ -15,9 +15,14 @@ I recently interned at Microsoft Research Redmond, mentored by [Vibhav Vineet](h
 
 Prior to USC, I was a Master's student at University of Michigan, Ann Arbor, where I worked with Prof. [David Fouhey](https://web.eecs.umich.edu/~fouhey/) and Prof. [Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my Bachelor's degree from Tsinghua University in 2017. During my undergrad time, I worked with [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm).
 
-<font color="#ff0000">I am graduating in 2023/early 2024 and now actively looking for full-time positions in computer vision, machine learning, and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font>
+<font color="#ff0000">I am graduating in Spring 2024 and now actively looking for full-time positions in computer vision, machine learning, and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font>
 
 <h1 id="publications"> Selected Publications (<a href="/publications/">Full List</a>)</h1>
+
+<p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
+<strong>Zhaoheng Zheng</strong>, Jingmin Wei, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
+<br> arXiv Preprint<br>
+<a href="https://arxiv.org/abs/2312.04076" class="btn btn--success">Paper</a></p>
 
 <p><u>CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning</u><br>
 <strong>Zhaoheng Zheng</strong>, Haidong Zhu, and Ram Nevatia
