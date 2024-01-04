@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate in Computer Science at University of Southern California, starting in 2019. I am very fortunate to be advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
-My research interest lies in the area of multimodal perception with vision and language, including large-scale vision-language transformers, and compositional zero-shot learning. I am now especially interested in Multimodal Large Language Models <strong>(LLMs)</strong> towards Artificial General Intelligence <strong>(AGI)</strong>.
+My research interest lies in the area of multimodal perception with vision and language, including large-scale vision-language transformers, and compositional zero-shot learning. I am now especially interested in Large Multimodal Models <strong>(LMMs)</strong>, Large Language Models <strong>(LLMs)</strong> and Generative AI.
 
 I recently interned at Microsoft Research Redmond, mentored by [Vibhav Vineet](https://vibhav-vineet.github.io/), during the summer of 2023. In 2021 and 2022, I spent two wonderful summers as an Applied Scientist Intern at Amazon Alexa AI, working with [Rakesh Chada](https://www.amazon.science/author/rakesh-chada) and [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en).
 
@@ -27,7 +27,8 @@ Prior to USC, I was a Master's student at University of Michigan, Ann Arbor, whe
 <p><u>CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning</u><br>
 <strong>Zhaoheng Zheng</strong>, Haidong Zhu, and Ram Nevatia
 <br> WACV 2024<br>
-<a href="https://arxiv.org/abs/2305.16681" class="btn btn--success">Paper</a></p>
+<a href="https://arxiv.org/abs/2305.16681" class="btn btn--success">Paper</a>
+<a href="https://github.com/zhaohengz/CAILA" class="btn btn--warning">Code</a></p>
 
 <p><u>MoMo: A shared encoder Model for text, image and multi-Modal representations</u><br>
 Rakesh Chada, <strong>Zhaoheng Zheng</strong>, and Pradeep Natarajan
