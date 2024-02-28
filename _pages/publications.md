@@ -10,6 +10,15 @@ You can also find my publication list on <u><a href="https://scholar.google.com/
 
 <h2> 2024 </h2>
 
+<p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
+<strong>Zhaoheng Zheng</strong>, Jingmin Wei, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
+<be> CVPR 2024<br>
+<a href="https://arxiv.org/abs/2312.04076" class="btn btn--success">Paper</a></p>
+
+<p><u>SEAS: ShapE-Aligned Supervision for Person Re-Identification</u><br>
+Haidong Zhu, Pranav Budhwant, <strong>Zhaoheng Zheng</strong>, and Ram Nevatia
+<be> CVPR 2024<br>
+
 <p><u>CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning</u><br>
 <strong>Zhaoheng Zheng</strong>, Haidong Zhu, and Ram Nevatia
 <br> WACV 2024<br>
@@ -21,11 +30,6 @@ Haidong Zhu, Wanrong Zheng, <strong>Zhaoheng Zheng</strong>, and Ram Nevatia
 <br> WACV 2024<br>
 
 <h2> 2023 </h2>
-
-<p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
-<strong>Zhaoheng Zheng</strong>, Jingmin Wei, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
-<br> arXiv Preprint<br>
-<a href="https://arxiv.org/abs/2312.04076" class="btn btn--success">Paper</a></p>
 
 <p><u>GaitRef: Gait Recognition with Refined Skeletons</u> (equal contribution)<br>
 Haidong Zhu*, Wanrong Zheng*, <strong>Zhaoheng Zheng</strong>, and Ram Nevatia
