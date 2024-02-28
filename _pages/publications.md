@@ -12,12 +12,12 @@ You can also find my publication list on <u><a href="https://scholar.google.com/
 
 <p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
 <strong>Zhaoheng Zheng</strong>, Jingmin Wei, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
-<be> CVPR 2024<br>
+<br> CVPR 2024<br>
 <a href="https://arxiv.org/abs/2312.04076" class="btn btn--success">Paper</a></p>
 
 <p><u>SEAS: ShapE-Aligned Supervision for Person Re-Identification</u><br>
 Haidong Zhu, Pranav Budhwant, <strong>Zhaoheng Zheng</strong>, and Ram Nevatia
-<be> CVPR 2024<br>
+<br> CVPR 2024<br>
 
 <p><u>CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning</u><br>
 <strong>Zhaoheng Zheng</strong>, Haidong Zhu, and Ram Nevatia
