@@ -13,7 +13,7 @@ My research interest lies in the area of multimodal perception with vision and l
 
 <!-- I recently interned at Microsoft Research Redmond, mentored by [Vibhav Vineet](https://vibhav-vineet.github.io/), during the summer of 2023. In 2021 and 2022, I spent two wonderful summers as an Applied Scientist Intern at Amazon Alexa AI, working with [Rakesh Chada](https://www.amazon.science/author/rakesh-chada) and [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en). -->
 
-I interned at Microsoft Research Redmond in 2023. In 2021 and 2022, I spent two wonderful summers as an Applied Scientist Intern at Amazon Alexa AI.
+I interned at Microsoft Research Redmond in 2023. In 2021 and 2022, I spent two wonderful summers as an Applied Scientist Intern at Amazon Alexa AI, working closely with Dr. [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en).
 
 Prior to USC, I was a Master's student at the University of Michigan, Ann Arbor, where I worked with Prof. [David Fouhey](https://web.eecs.umich.edu/~fouhey/) and Prof. [Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my Bachelor's degree from Tsinghua University in 2017. During my undergrad time, I worked with [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm).
 
