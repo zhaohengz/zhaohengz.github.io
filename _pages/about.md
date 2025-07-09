@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. in Computer Science at the University of Southern California in 2024. I am very fortunate to be advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
-My research interest lies in the area of multimodal perception with vision and language, including large-scale vision-language transformers, and compositional zero-shot learning. I am now especially interested in Large Multimodal Models <strong>(LMMs)</strong>, Large Language Models <strong>(LLMs)</strong> and Generative AI.
+I currently work at Meta as a Research Scientist, specializing in Multimodal Large Language Models (MLLM) for products that serves billions of users. 
+
+I received my Ph.D. in Computer Science at the University of Southern California in 2024. I am very fortunate to be advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). During my Ph.D., I worked in the area of multimodal perception with vision and language, including large-scale vision-language transformers, and compositional zero-shot learning.
 
 <!-- I recently interned at Microsoft Research Redmond, mentored by [Vibhav Vineet](https://vibhav-vineet.github.io/), during the summer of 2023. In 2021 and 2022, I spent two wonderful summers as an Applied Scientist Intern at Amazon Alexa AI, working with [Rakesh Chada](https://www.amazon.science/author/rakesh-chada) and [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en). -->
 
